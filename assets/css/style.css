@@ -262,7 +262,7 @@ p {
 .navbar a:focus i {
   font-size: 12px;
   line-height: 0;
-  margin-left: 5px;
+  margin-left: 2px;
 }
 
 .navbar a:hover,
